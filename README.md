@@ -1,1 +1,1 @@
-This is my test Git Repository
+This is my test Git Repository.
